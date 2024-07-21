@@ -3,9 +3,6 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import MultiInput from './pages/MultiInput';
-import ManualNumber from './pages/ManualNumber';
-import TimerMainPage from './pages/hook/TimerMainPage';
 import LottoMain from './pages/LottoMain';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
